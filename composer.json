@@ -1,7 +1,7 @@
 {
-	"name"        : "gubler/bootstrap-timepicker",
-	"description" : "A simple timepicker component for Twitter Bootstrap.",
-	"version"     : "0.2.5",
+	"name"        : "gubler/bootstrap3-timepicker",
+	"description" : "A simple timepicker component for Twitter Bootstrap 3.x.",
+	"version"     : "0.2.7",
 	"license"     : "MIT",
 	"authors": [
 		{
